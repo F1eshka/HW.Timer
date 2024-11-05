@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\bin\Debug\net8.0-windows\HW.Timer.exe
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\bin\Debug\net8.0-windows\HW.Timer.deps.json
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\bin\Debug\net8.0-windows\HW.Timer.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\bin\Debug\net8.0-windows\HW.Timer.dll
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\bin\Debug\net8.0-windows\HW.Timer.pdb
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.Form1.resources
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.dll
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\refint\HW.Timer.dll
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.pdb
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\HW.Timer.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Timer\HW.Timer\obj\Debug\net8.0-windows\ref\HW.Timer.dll
